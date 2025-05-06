@@ -10,5 +10,8 @@ int main(){
     {
         std::cout << "Gagné" << std::endl;
     }
+
+    std::cout << "Créer des problèmes" << std::endl;
+
     return 0; 
 }
