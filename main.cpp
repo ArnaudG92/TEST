@@ -2,7 +2,7 @@
 
 int main(){
 
-    std::cout << "Salut la TEAM ! " << std::endl; 
+    std::cout << "Salut la TEAM 2! " << std::endl; 
 
     return 0; 
 }
